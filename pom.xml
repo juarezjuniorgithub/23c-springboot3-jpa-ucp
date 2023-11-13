@@ -16,7 +16,7 @@
     <version>1.0-SNAPSHOT</version>	
     <name>23c-springboot3-jpa-ucp</name>
     <description>Java Persistence with Spring Boot 3, Spring Data JPA with Hibernate, and the Oracle Database 23c Free - Developer Release</description>
-    <url>https://juarezjunior.medium.com/</url>
+    <url>https://juarezjunior.medium.com/java-persistence-with-spring-boot-3-spring-data-jpa-with-hibernate-and-the-oracle-database-23c-9c0946d4838f</url>
   	<properties>
 	  <java.version>17</java.version>
 	  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
